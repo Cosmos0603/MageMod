@@ -1,1 +1,1 @@
-# mage_mod
+# MageMod
