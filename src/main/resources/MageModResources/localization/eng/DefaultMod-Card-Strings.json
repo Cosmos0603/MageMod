@@ -1,0 +1,53 @@
+{
+  "MageMod:DefaultCommonAttack": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! Damage. NL [#0000ff]This[] [#ff0000]Is[] [#ffff00]How[] [#88888]color[] [#ff00ff]works.[]"
+  },
+  "MageMod:DefaultCommonSkill": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block. NL MageMod:Multiword_Keyword."
+  },
+  "MageMod:DefaultCommonPower": {
+    "NAME": "Hold Place",
+    "DESCRIPTION": "Gain !M! MageMod:Keyword.",
+    "UPGRADE_DESCRIPTION": "Gain !M! MageMod:Keywords."
+  },
+  "MageMod:DefaultUncommonAttack": {
+    "NAME": "Big slap",
+    "DESCRIPTION": "Deal !D! Damage."
+  },
+  "MageMod:DefaultUncommonSkill": {
+    "NAME": "A Better Defend",
+    "DESCRIPTION": "Gain !B! Plated Armor. Affected by Dexterity."
+  },
+  "MageMod:DefaultUncommonPower": {
+    "NAME": "Weirdness",
+    "DESCRIPTION": "Gain X MageMod:Keywords.",
+    "UPGRADE_DESCRIPTION": "Gain X +1 MageMod:Keywords."
+  },
+  "MageMod:DefaultRareAttack": {
+    "NAME": "TOUCH",
+    "DESCRIPTION": "Deal !D! Damage."
+  },
+  "MageMod:DefaultRareSkill": {
+    "NAME": "For Each Loop x2",
+    "DESCRIPTION": "Apply !M! vulnerable to all enemies, 2 times.",
+    "UPGRADE_DESCRIPTION": "Apply !M! vulnerable to all enemies, 3 times."
+  },
+  "MageMod:DefaultRarePower": {
+    "NAME": "In-Progress Form",
+    "DESCRIPTION": "At the start of your turn, play a TOUCH."
+  },
+  "MageMod:DefaultAttackWithVariable": {
+    "NAME": "Special Strike",
+    "DESCRIPTION": "Deal !D! Damage [E] times. NL (Deal !MageMod:ENERGY_DAMAGE! damage total.)"
+  },
+  "MageMod:DefaultSecondMagicNumberSkill": {
+    "NAME": "Cool 2 Number Card",
+    "DESCRIPTION": "Apply !M! vulnerable and !MageMod:SecondMagic! poison to an enemy."
+  },
+  "MageMod:OrbSkill": {
+    "NAME": "Get Orb",
+    "DESCRIPTION": "Channel 1 Default Orb."
+  }
+}

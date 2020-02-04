@@ -1,93 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d61605c6-088a-4823-8755-9470fd381a55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d61605c6-088a-4823-8755-9470fd381a55" name="Default Changelist" comment="Change &quot;DefaultMod&quot; to &quot;MageMod&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/DefaultMod-Card-Strings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DefaultMod.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MageMod.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/DefaultMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/theDefault/DefaultMod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/characters/TheDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/theDefault/characters/TheDefault.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/events/IdentityCrisisEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/theDefault/events/IdentityCrisisEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/powers/RarePower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/theDefault/powers/RarePower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/util/TextureLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/theDefault/util/TextureLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/1024/Cardback.psd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/1024/Cardback.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/1024/bg_attack_default_gray.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/1024/bg_attack_default_gray.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/1024/bg_power_default_gray.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/1024/bg_power_default_gray.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/1024/bg_skill_default_gray.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/1024/bg_skill_default_gray.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/1024/card_default_gray_orb.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/1024/card_default_gray_orb.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/1024/card_default_gray_orb.psd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/1024/card_default_gray_orb.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/512/bg_attack_default_gray.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/512/bg_attack_default_gray.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/512/bg_power_default_gray.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/512/bg_power_default_gray.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/512/bg_skill_default_gray.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/512/bg_skill_default_gray.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/512/card_default_gray_orb.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/512/card_default_gray_orb.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/512/card_small_orb.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/512/card_small_orb.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/Badge.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/Badge.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/cards/Attack.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/cards/Attack.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/cards/Attack_p.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/cards/Attack_p.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/cards/Attack_p.psd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/cards/Attack_p.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/cards/Power.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/cards/Power.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/cards/Power_p.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/cards/Power_p.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/cards/Power_p.psd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/cards/Power_p.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/cards/Skill.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/cards/Skill.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/cards/Skill_p.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/cards/Skill_p.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/cards/Skill_p.psd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/cards/Skill_p.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/cards/beautifu -bouquet color by Studio 7042.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/cards/beautifu -bouquet color by Studio 7042.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/Spriter/object1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/Spriter/object1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/Spriter/object2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/Spriter/object2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/Spriter/object3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/Spriter/object3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/Spriter/skeleton.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/Spriter/skeleton.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/Spriter/theDefaultAnimation.autosave.scml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/Spriter/theDefaultAnimation.autosave.scml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/Spriter/theDefaultAnimation.scml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/Spriter/theDefaultAnimation.scml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/corpse.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/corpse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/main2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/main2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/orb/layer1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/orb/layer1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/orb/layer1d.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/orb/layer1d.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/orb/layer2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/orb/layer2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/orb/layer2d.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/orb/layer2d.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/orb/layer3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/orb/layer3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/orb/layer3d.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/orb/layer3d.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/orb/layer4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/orb/layer4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/orb/layer4d.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/orb/layer4d.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/orb/layer5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/orb/layer5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/orb/layer5d.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/orb/layer5d.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/orb/layer6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/orb/layer6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/orb/vfx.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/orb/vfx.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/shoulder.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/shoulder.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/shoulder2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/shoulder2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/skeleton.atlas" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/skeleton.atlas" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/skeleton.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/skeleton.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/char/defaultCharacter/skeleton.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/char/defaultCharacter/skeleton.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/charSelect/Button.psd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/charSelect/Button.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/charSelect/DefaultCharacterButton.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/charSelect/DefaultCharacterButton.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/charSelect/DefaultCharacterPortraitBG.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/charSelect/DefaultCharacterPortraitBG.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/charSelect/PortraitBG.psd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/charSelect/PortraitBG.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/events/Events.psd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/events/Events.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/events/IdentityCrisisEvent.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/events/IdentityCrisisEvent.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/events/IdentityCrisisEvent2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/events/IdentityCrisisEvent2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/orbs/default_orb.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/orbs/default_orb.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/powers/placeholder_power.psd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/powers/placeholder_power.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/powers/placeholder_power32.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/powers/placeholder_power32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/powers/placeholder_power84.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/powers/placeholder_power84.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/relics/BottledPlaceholder.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/relics/BottledPlaceholder.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/relics/Relics.psd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/relics/Relics.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/relics/default_clickable_relic.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/relics/default_clickable_relic.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/relics/outline/BottledPlaceholder.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/relics/outline/BottledPlaceholder.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/relics/outline/default_clickable_relic.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/relics/outline/default_clickable_relic.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/relics/outline/placeholder_relic.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/relics/outline/placeholder_relic.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/relics/outline/placeholder_relic2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/relics/outline/placeholder_relic2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/relics/placeholder_relic.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/relics/placeholder_relic.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/relics/placeholder_relic2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/relics/placeholder_relic2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/images/ui/missing_texture.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/images/ui/missing_texture.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/localization/eng/DefaultMod-Card-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/MageMod-Card-Strings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/localization/eng/DefaultMod-Character-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/MageMod-Character-Strings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/localization/eng/DefaultMod-Event-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/MageMod-Event-Strings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/localization/eng/DefaultMod-Keyword-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/MageMod-Keyword-Strings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/localization/eng/DefaultMod-Orb-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/MageMod-Orb-Strings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/localization/eng/DefaultMod-Potion-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/MageMod-Potion-Strings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/localization/eng/DefaultMod-Power-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/MageMod-Power-Strings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/theDefaultResources/localization/eng/DefaultMod-Relic-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/MageMod-Relic-Strings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/DefaultMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/DefaultMod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/actions/UncommonPowerAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/actions/UncommonPowerAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/cards/AbstractDefaultCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/cards/AbstractDefaultCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/cards/AbstractDynamicCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/cards/AbstractDynamicCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/cards/CardTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/cards/CardTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/cards/DefaultAttackWithVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/cards/DefaultAttackWithVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/cards/DefaultCommonAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/cards/DefaultCommonAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/cards/DefaultCommonPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/cards/DefaultCommonPower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/cards/DefaultCommonSkill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/cards/DefaultCommonSkill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/cards/DefaultRareAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/cards/DefaultRareAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/cards/DefaultRarePower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/cards/DefaultRarePower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/cards/DefaultRareSkill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/cards/DefaultRareSkill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/cards/DefaultSecondMagicNumberSkill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/cards/DefaultSecondMagicNumberSkill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/cards/DefaultUncommonAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/cards/DefaultUncommonAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/cards/DefaultUncommonPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/cards/DefaultUncommonPower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/cards/DefaultUncommonSkill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/cards/DefaultUncommonSkill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/cards/OrbSkill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/cards/OrbSkill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/characters/TheDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/characters/TheDefault.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/events/IdentityCrisisEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/events/IdentityCrisisEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/orbs/DefaultOrb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/orbs/DefaultOrb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/patches/DefaultInsertPatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/patches/DefaultInsertPatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/patches/relics/BottledPlaceholderField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/patches/relics/BottledPlaceholderField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/potions/PlaceholderPotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/potions/PlaceholderPotion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/powers/CommonPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/powers/CommonPower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/powers/RarePower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/powers/RarePower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/relics/BottledPlaceholderRelic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/relics/BottledPlaceholderRelic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/relics/DefaultClickableRelic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/relics/DefaultClickableRelic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/relics/PlaceholderRelic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/relics/PlaceholderRelic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/relics/PlaceholderRelic2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/relics/PlaceholderRelic2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/util/IDCheckDontTouchPls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/util/IDCheckDontTouchPls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/util/TextureLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/util/TextureLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/variables/DefaultCustomVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/variables/DefaultCustomVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/theDefault/variables/DefaultSecondMagicNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MageMod/variables/DefaultSecondMagicNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/MageMod-Card-Strings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/MageMod-Character-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/DefaultMod-Character-Strings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/MageMod-Event-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/DefaultMod-Event-Strings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/MageMod-Keyword-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/DefaultMod-Keyword-Strings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/MageMod-Orb-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/DefaultMod-Orb-Strings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/MageMod-Potion-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/DefaultMod-Potion-Strings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/MageMod-Power-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/DefaultMod-Power-Strings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/MageMod-Relic-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/MageModResources/localization/eng/DefaultMod-Relic-Strings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,8 +63,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Games/steamapps/workshop/content/646570/1605060445/ModTheSpire.jar" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ModTheSpire" type="JarApplication">
+      <option name="JAR_PATH" value="C:/Games/steamapps/workshop/content/646570/1605060445/ModTheSpire.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Games\steamapps\common\SlayTheSpire" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -132,24 +97,88 @@
       <option name="presentableId" value="Default" />
       <updated>1580365164614</updated>
     </task>
+    <task id="LOCAL-00001" summary="Change &quot;DefaultMod&quot; to &quot;MageMod&quot;">
+      <created>1580368095270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580368095270</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change &quot;DefaultMod&quot; to &quot;MageMod&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change &quot;DefaultMod&quot; to &quot;MageMod&quot;" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="401" y="134" key="CommitChangelistDialog2" timestamp="1580368037932">
+    <state x="445" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580849077935">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="401" y="134" key="CommitChangelistDialog2/62.0.1858.1080@62.0.1858.1080" timestamp="1580368037932" />
-    <state x="1048" y="223" key="FileChooserDialogImpl" timestamp="1580366774534">
+    <state x="445" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1580849077935" />
+    <state x="401" y="134" key="CommitChangelistDialog2" timestamp="1580850601723">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="1048" y="223" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1580366774534" />
+    <state x="401" y="134" key="CommitChangelistDialog2/62.0.1858.1080@62.0.1858.1080" timestamp="1580850601723" />
+    <state x="110" y="96" key="DiffContextDialog" timestamp="1580850589618">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="110" y="96" key="DiffContextDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1580850589618" />
+    <state x="1048" y="223" key="FileChooserDialogImpl" timestamp="1580849064518">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1048" y="223" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1580849064518" />
+    <state width="1815" height="364" key="GridCell.Tab.0.bottom" timestamp="1580850601772">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1580850601772" />
+    <state width="1815" height="364" key="GridCell.Tab.0.center" timestamp="1580850601772">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1580850601772" />
+    <state width="1815" height="364" key="GridCell.Tab.0.left" timestamp="1580850601772">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1580850601772" />
+    <state width="1815" height="364" key="GridCell.Tab.0.right" timestamp="1580850601772">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1580850601772" />
+    <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1580850601772">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1580850601772" />
+    <state width="1815" height="364" key="GridCell.Tab.1.center" timestamp="1580850601772">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.center/62.0.1858.1080@62.0.1858.1080" timestamp="1580850601772" />
+    <state width="1815" height="364" key="GridCell.Tab.1.left" timestamp="1580850601772">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.left/62.0.1858.1080@62.0.1858.1080" timestamp="1580850601772" />
+    <state width="1815" height="364" key="GridCell.Tab.1.right" timestamp="1580850601772">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.right/62.0.1858.1080@62.0.1858.1080" timestamp="1580850601772" />
     <state x="492" y="182" key="SettingsEditor" timestamp="1580365893596">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="492" y="182" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1580365893596" />
+    <state x="583" y="273" key="Vcs.Push.Dialog.v2" timestamp="1580368223474">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="273" key="Vcs.Push.Dialog.v2/62.0.1858.1080@62.0.1858.1080" timestamp="1580368223474" />
     <state x="667" y="89" width="786" height="900" key="find.popup" timestamp="1580367803797">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="667" y="89" width="786" height="900" key="find.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1580367803797" />
+    <state x="681" y="331" key="git4idea.merge.GitPullDialog" timestamp="1580849513712">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="681" y="331" key="git4idea.merge.GitPullDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1580849513712" />
+    <state x="647" y="250" width="672" height="677" key="run.anything.popup" timestamp="1580848682586">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="647" y="250" width="672" height="677" key="run.anything.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1580848682586" />
   </component>
 </project>
